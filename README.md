@@ -11,11 +11,14 @@ then we combine it all together using `data_preparation.ipynb` and the final pre
 ## Results
 This project depicts 2 story points.
 1. an overview of Netflix content \
+   
 ![image](https://github.com/SpatikaP/Netflix-Data-Analysis/assets/79979665/66229118-2744-4227-be6a-9fb998669317)
 
 
 2. Top IMDB score contents \
-![page2: Top IMDB score contents](img/page2.gif "page2")
+   
+![image](https://github.com/SpatikaP/Netflix-Data-Analysis/assets/79979665/d1f63030-8201-4283-9357-cc6044bdbf6a)
+
 
 You can find it by following Power BI link below.
 
