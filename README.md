@@ -1,4 +1,4 @@
-![page1](https://github.com/SpatikaP/Netflix-Data-Analysis/assets/79979665/a8a30cfa-9ad9-4589-bf52-61f49eb821e2)# Netflix-Movies-and-TVshows-Visualization-PowerBI
+# Netflix-Movies-and-TVshows-Visualization-PowerBI
 
 This is a Power BI project that creates interactive dashboards for Netflix content visual analysis.
 
